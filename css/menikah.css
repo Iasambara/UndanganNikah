@@ -115,6 +115,11 @@ html {
   border-bottom: 2px solid #c28285;
 }
 
+.fonta1 {
+  font-family:'Raleway', sans-serif;
+  font-size: 25px;
+}
+
 
 .space1{
   height: 750px;
